@@ -1,0 +1,33 @@
+* {
+    font-size: 20px;
+}
+h1 {
+    font-size: 2em;
+    color: #b29;    
+}
+
+img {
+    height: 500px;
+    border: solid 10px;
+    color: darkcyan;
+}
+
+.ul-perifericos {
+    font-size: 1.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #b29;
+}
+
+.ol-SO {
+    font-size: 1.5em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkcyan;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:visited {
+    color: darkorange;
+}
